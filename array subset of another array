@@ -9,3 +9,5 @@ def isSubset( a1, a2, n, m):
     
             
     return "Yes"
+print("jsfks")
+#print(isSubset([1,2,3,4,5],[1,2,3],5,3))
